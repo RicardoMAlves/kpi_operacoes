@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1096508361678",
+    "firebase_url": "https://kpisreturn.firebaseio.com",
+    "project_id": "kpisreturn",
+    "storage_bucket": "kpisreturn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096508361678:android:972276fb5c58621de3399f",
+        "android_client_info": {
+          "package_name": "ralves.com.br.kpioperacoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096508361678-qu9jtcrv2liafl6mivlonmukkmtbra41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK3xNl14MiaD4BSuorsIOukdNh6jN3leo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096508361678-qu9jtcrv2liafl6mivlonmukkmtbra41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096508361678-7dn9s7fef207lf8qbshjsqutphijgnnp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.returncapital.kpisreturn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
